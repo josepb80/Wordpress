@@ -18,6 +18,9 @@ Al escoger la plantilla me he puesto a cambiar toda la web, cambiandole las sigu
 También he eliminado cosas que no quería en mi web y he añadido diferentes posts en ella para que sea más de mi gusto. Muchas cosas ya venían por defecto en la plantilla como el mapa y así no he necesitado instalar ni configurar ningún plugin para ella.
 
 ## Añadir Usuarios
-Lo último que he hecho es añadir nuevos usuarios con distintos roles (Administrador, Editor, Autor, Contribuidor y Suscriptor). 
+He añadido también usuarios con distintos roles (Administrador, Editor, Autor, Contribuidor y Suscriptor). 
 
 ![imatge](https://github.com/user-attachments/assets/27ea1ee6-585f-433b-803c-a6fa8465ec9d)
+
+## Polylang
+He metido un plugin para que se pueda ver mi web en distintos idiomas, he tenido que traducir todo al inglés a mano.
