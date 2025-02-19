@@ -24,3 +24,14 @@ He añadido también usuarios con distintos roles (Administrador, Editor, Autor,
 
 ## Polylang
 He metido un plugin para que se pueda ver mi web en distintos idiomas, he tenido que traducir todo al inglés a mano.
+
+# Host
+
+Por último he añadido mi web de WordPress en un host gratuito, para que se pueda entrar sin necesidad de encender la máquina virtual.
+
+## InfinityFree
+Mi host gratuito lo he hecho desde InfinityFree que es el más simple que he encontrado, y como ya lo había utilizado un poco anteriormente pues ya tenía un poco de experiencia.
+
+Para meter mi web a mi host solo he tenido que transferir la carpeta de <b>wp-content<b/> a dentro de mi host, con el WordPress ya intalado dentro. Con todo ya transferido solo he tenido que entrar a mi web y comprobar que todo está como lo he hecho, y si no es así cambio lo que tenga que cambiar y ya.
+
+Mi web es esta: [http://josepviajes.ct.ws/](http://josepviajes.ct.ws/)
